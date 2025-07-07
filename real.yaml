@@ -1,0 +1,6 @@
+
+train: D:/steel/yolo_data/images/train
+val:  D:/steel/yolo_data/images/val
+
+nc: 1
+names: ['steel-span']

@@ -1,0 +1,18 @@
+train: C:/Users/STUDENT/Downloads/metal/train/images
+val: C:/Users/STUDENT/Downloads/metal/valid/images
+test: C:/Users/STUDENT/Downloads/metal/test/images
+
+names: 
+  0: adjust 3
+  1: adjust4
+  2: alum
+  3: base
+  4: channel
+  5: grill
+  6: jacky
+  7: ledger
+  8: pipe
+  9: props
+  10: sheet
+  11: span
+  12: vertical
